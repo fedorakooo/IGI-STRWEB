@@ -1,7 +1,7 @@
 
 
 def main():
-	print("Some information")
+	print("Some other information")
 
 
 main()
